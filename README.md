@@ -11,7 +11,6 @@ The User App allows customers to:
 - Browse and search products by category or seller
 - Add items to cart and place orders
 - Track order status in real-time
-- Pay using JazzCash integration
 - View order history
 
 ### 🛍️ Seller App
@@ -32,7 +31,7 @@ The Seller App enables vendors to:
 | Backend (Realtime) | Firebase Firestore   |
 | Backend (Sync)   | MySQL (via Cloud Functions or scripts) |
 | Authentication   | Firebase Auth        |
-| Payments         | JazzCash Integration |
+| Payments         | JazzCash Integration (working) |
 | Storage          | Firebase Storage     |
 | Platform         | Android (iOS planned) |
 
